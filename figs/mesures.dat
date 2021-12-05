@@ -1,0 +1,8 @@
+version n    energy-pkg-J  energy-ram-J  temps-s
+naive   256  0.88          0.02          0.029
+naive   512  8.90          0.18          0.273
+naive   768  25.1          0.53          0.717
+naive   1024 64.1          1.97          2.266
+naive   1280 126           5.61          4.151
+naive   1536 358           18.9          11.4
+naive   1792 644           29.4          21.6
